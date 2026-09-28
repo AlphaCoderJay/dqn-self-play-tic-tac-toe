@@ -99,7 +99,6 @@ class TicTacToeEnv:
 
 
 
-    #This Function is used to analyze a game, i dont get this function we idk the code
     def analyzeboard(self,board):
         cb=[[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]] #???
 
